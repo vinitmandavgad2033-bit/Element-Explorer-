@@ -1,0 +1,11 @@
+{
+  "name": "Element Explorer",
+  "description": "An interactive, voice-enabled periodic table explorer that predicts and displays comprehensive chemical element details.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "voice_input",
+    "text_to_speech"
+  ]
+}
